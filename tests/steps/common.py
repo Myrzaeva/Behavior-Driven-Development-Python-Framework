@@ -1,5 +1,5 @@
 from behave import given, when, then
-from framework.webapp import webapp
+from tests.framework.webapp import webapp
 
 
 @given(u'I load the website')

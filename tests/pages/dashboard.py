@@ -1,4 +1,4 @@
-from framework.webapp import webapp
+from tests.framework.webapp import webapp
 
 
 class Dashboard():

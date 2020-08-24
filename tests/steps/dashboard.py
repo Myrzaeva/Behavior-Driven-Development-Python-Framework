@@ -1,5 +1,5 @@
 from behave import given, when, then
-from pages.dashboard import dashboard
+from tests.pages.dashboard import dashboard
 
 
 @then(u'Dashboard Status shows correct values for row "{row}"')

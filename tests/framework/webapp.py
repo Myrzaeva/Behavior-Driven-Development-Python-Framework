@@ -1,5 +1,5 @@
 from selenium import webdriver
-from data.config import settings
+from tests.data.config import settings
 from urllib.parse import urljoin
 
 
